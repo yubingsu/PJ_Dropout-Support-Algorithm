@@ -1,4 +1,4 @@
-<img width="2144" height="1200" alt="image" src="https://github.com/user-attachments/assets/c77f3427-47ba-4ae8-bba0-c5a1ef15928c" /># PJ_Dropout-Support-Algorithm
+# PJ_Dropout-Support-Algorithm
 [2024] 학업 중단 원인의 다면적 분석을 통한 지원 알고리즘 구축
 
 ## 프로젝트 개요
