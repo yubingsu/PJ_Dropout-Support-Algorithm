@@ -1,8 +1,8 @@
 # PJ_Dropout-Support-Algorithm
 
 ## 프로젝트 개요
-<img width="1022" height="600" alt="image" src="https://github.com/user-attachments/assets/3ed7773e-5a49-4cf4-bc85-cb4d9512abd5" />
-- **“어떤 지역·환경의 학생이, 어떤 이유로 학업 중단 위험이 높은가?”** 를 데이터로 규명     
+<img width="1022" height="600" alt="image" src="https://github.com/user-attachments/assets/3ed7773e-5a49-4cf4-bc85-cb4d9512abd5" />     
+- **“어떤 지역·환경의 학생이, 어떤 이유로 학업 중단 위험이 높은가?”** 를 데이터로 규명       
 - 기존 정책은 학업 중단을 단일 요인으로 접근하는 한계가 있어, **지역·학교급·개인 특성을 고려한 다면적 분석과 선제적 지원 체계 필요함** 
   
 
