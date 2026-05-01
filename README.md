@@ -1,6 +1,5 @@
 # PJ_Dropout-Support-Algorithm
 [학부 프로젝트(4인)] - 데이터 분석/시각화/해석 담당     
-🔗발표 자료 :  https://drive.google.com/file/d/1pEhWICMjeuQR8h2b2LdiWh5pbngQscmg/view?usp=sharing 
 
 ## 프로젝트 개요
 <img width="1022" height="600" alt="image" src="https://github.com/user-attachments/assets/3ed7773e-5a49-4cf4-bc85-cb4d9512abd5" />
